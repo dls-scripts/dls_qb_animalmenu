@@ -1,6 +1,6 @@
 # DLS Animal Menu
 
-A custom animal transformation menu for **QBX Core**, allowing players to transform into various animals in GTA V. This script includes admin authentication, transformation abilities, and supports multiple animal models.
+A custom animal transformation menu for **qb-core**, allowing players to transform into various animals in GTA V. This script includes admin authentication, transformation abilities, and supports multiple animal models.
 
 ## Features
 
