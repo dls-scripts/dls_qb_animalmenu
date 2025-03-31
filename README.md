@@ -12,6 +12,4 @@ A custom animal transformation menu for **QBX Core**, allowing players to transf
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/dls-animal-menu.git
+- **Drag and Drop!**
